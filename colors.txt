@@ -2,4 +2,9 @@ red
 blue
 green
 yelow
+<<<<<<< HEAD
 pink
+=======
+black
+orange
+>>>>>>> f2632c5171e67b81f102cd2ba1cf0c4e133cbb89
