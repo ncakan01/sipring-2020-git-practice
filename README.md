@@ -1,2 +1,2 @@
-##This is a gir practice project
+##This is a git practice project
 
