@@ -5,4 +5,9 @@ yelow
 pink
 black
 orange
+<<<<<<< HEAD
 ###brown
+=======
+>>>>>>> f2632c5171e67b81f102cd2ba1cf0c4e133cbb89
+purple
+>>>>>>> 5ff0d8901151c98831a2f1869fa68405d119aa5e
