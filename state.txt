@@ -1,5 +1,9 @@
 New York 
 Adana
 Seyhan
+<<<<<<< HEAD
 Aydinlar Mah.
 
+=======
+100.Yil
+>>>>>>> 3a2294cd92e1f058b5c553f93374cc2a9c362e58

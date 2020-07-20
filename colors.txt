@@ -7,4 +7,6 @@ black
 orange
 ###brown
 purple
+violet
+apricot
 
